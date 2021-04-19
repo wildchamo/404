@@ -41,7 +41,7 @@ main #imagenleft{
     width: 286px;
     height: 238px;
     margin: 0 auto;
-
+    border-radius: 10px;
 }
 main .main-texto{
     height: auto;
