@@ -36,8 +36,9 @@
 ![screenshot](/magia.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
+you can see the demo in   <a href="https://wildchamo.com/">
+      wildchamo.com
+    </a>
 - What was your experience?
 - What have you learned/improved?
 - Your wisdom? :)
