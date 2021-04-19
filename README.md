@@ -3,13 +3,13 @@
 <h1 align="center">404 by wilChamo</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+  provisional site. working in the real now! 
 </div>
 
 <div align="center">
   <h3>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://wildchamo.com/">
       Solution
     </a>
     <span> | </span>
